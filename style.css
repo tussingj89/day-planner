@@ -26,7 +26,7 @@ textarea{
 .jumbotron {
   text-align: center;
   background-color: transparent;
-  background-image: url("./assets/background.jpg");
+  background-image: url("assets/background.jpg");
    color: black;
   border-radius: 0;
   border-bottom: 10px solid black;
@@ -64,12 +64,12 @@ textarea{
 }
 
 .present {
-  background-color: #ff6961;
+  background-color: #fed2a3;
   color: black;
 }
 
 .future {
-  background-color: #77dd77;
+  background-color: #37797a;
   color: black;
 }
 
@@ -89,9 +89,4 @@ textarea{
   font-size: 20px;
   transition: all .3s ease-in-out;
 }
-@media (max-width: 690px) {
 
-  .row {
-
-  }
-}
