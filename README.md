@@ -5,7 +5,7 @@ This project focuses on the use of jqeury. With jquery writing code is quick and
 This file works on any webpage, so the viewing of this project is as simple as following the link listed below.
 https://tussingj89.github.io/day-planner
 
-# passwords made easy
+# coding simplified
 
 Below is a sample of the code, with jquery the code is streamlined and easy to read. 
 
