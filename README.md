@@ -14,20 +14,26 @@ Below is a sample of the code, with jquery the code is streamlined and easy to r
 btn2.on("click", function() {
 localStorage.setItem("entry2", time2pm.val());
 });
+
 btn3.on("click", function() {
 localStorage.setItem("entry3", time3pm.val());
 });
+
 btn4.on("click", function() {
 localStorage.setItem("entry4", time4pm.val());
 });
+
 btn5.on("click", function() {
 localStorage.setItem("entry5", time5pm.val());
 });
 
 // getting storage
 time9am.val(localStorage.getItem("entry9"));
+
 time10am.val(localStorage.getItem("entry10"));
+
 time11am.val(localStorage.getItem("entry11"));
+
 time12pm.val(localStorage.getItem("entry12"))
 
 
