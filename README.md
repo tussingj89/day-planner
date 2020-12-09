@@ -1,5 +1,5 @@
 # day-planner
-This project focuses on the use of jqeury. With jquery writing code is quick and easy, and makes for a simple easy to read document. With this day planner, scheduling your day becomes simple with color coded hours. It lets you see what needs to to be accomplished and when it should be done.
+This project focuses on the use of jqeury. With jquery writing code is quick and easy, and makes for a simple easy-to-read document. With this day planner, scheduling your day becomes simple with color coded hours. It lets you see what needs to to be accomplished and when it should be done.
 # no install, no wait
 
 This file works on any webpage, so the viewing of this project is as simple as following the link listed below.
