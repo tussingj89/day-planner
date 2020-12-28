@@ -5,6 +5,9 @@ This project focuses on the use of jqeury. With jquery writing code is quick and
 This file works on any webpage, so the viewing of this project is as simple as following the link listed below.
 https://tussingj89.github.io/day-planner
 
+# technologys used
+html, css, bootstrap, client side storage, and jquery
+
 # coding simplified
 
 Below is a sample of the code, with jquery the code is streamlined and easy to read. 
@@ -40,3 +43,6 @@ time12pm.val(localStorage.getItem("entry12"))
 # snapshot of the webpage
 
 ![day-planner](assets/snapshot.png)
+
+# contact me at:
+tussing40@gmail.com
