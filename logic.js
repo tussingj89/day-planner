@@ -1,5 +1,5 @@
 $(document).ready(function(){
-// variables 
+// variables for time areas by hours
 var currentDay = $("currentDay")
 var time9am = $("#9");
 var time10am = $("#10");
