@@ -30,7 +30,7 @@ var clearBtn4 = $("#clearbtn4");
 var clearBtn5 = $("#clearbtn5");
 var clearAllBtn = $("#clearAllBtn")
 
-// setting currentDay event 
+// setting currentDay event using moments
 var today = moment().format("dddd, MMMM Do, YYYY, h:mm a");
 $("#currentDay").append(today);
 console.log(today);
